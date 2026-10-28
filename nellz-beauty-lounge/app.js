@@ -79,11 +79,11 @@ const CATS = [
     ]
   }
 ];
-const GAL = [['Cuts', 'Layered cut', 'images/layeredcut.jpeg'], ['Color', 'Honey balayage', 'images/g02.svg'], ['Bridal', 'Bridal updo', 'images/g03.svg'], ['Cuts', 'Classic bob', 'images/Classicbob.jpeg'], ['Color', 'Rose brown color', 'images/g05.svg'], ['Bridal', 'Bridal makeup', 'images/g06.svg'], ['Cuts', 'Men’s fade', 'images/Mensfade.webp'], ['Color', 'Ash blonde', 'images/g08.svg'], ['Bridal', 'Wedding party', 'images/g09.svg'], ['Cuts', 'Long layers', 'images/Longlayer.jpg'], ['Color', 'Copper highlights', 'images/g11.svg'], ['Bridal', 'Soft curls', 'images/g12.svg']];
+const GAL = [['Cuts', 'Layered cut', 'images/layeredcut.jpeg'], ['Color', 'Honey balayage', 'images/g02.svg'], ['Bridal', 'Bridal updo', 'images/g03.svg'], ['Cuts', 'Classic bob', 'images/Classicbob.jpeg'], ['Color', 'Rose brown color', 'images/g05.svg'], ['Bridal', 'Bridal makeup', 'images/g06.svg'], ['Cuts', 'Men’s fade', 'images/Mensfade.jpg'], ['Color', 'Ash blonde', 'images/g08.svg'], ['Bridal', 'Wedding party', 'images/g09.svg'], ['Cuts', 'Long layers', 'images/Longlayer.jpg'], ['Color', 'Copper highlights', 'images/g11.svg'], ['Bridal', 'Soft curls', 'images/g12.svg']];
 const SERVICES = [['Hair', 'Cuts, color, rebond, treatments and hair packages.', 'images/hair.jpeg'], ['Nails & foot spa', 'Manicure, pedicure, gel polish, extensions and packages.', 'images/nailfootspa.jpg'], ['Waxing & laser', 'Waxing for face, arms, body and legs, plus diode laser.', 'images/waxingandlaser.jpg'], ['Facials & slimming', 'Facials, lashes and Exilis slimming and tightening.', 'images/facialslimmimg.jpg']];
 const HERO = [
   { k: 'Hair, nails & skin', h: 'Beauty care, <em>all in one place</em>', p: 'Hair, nails, waxing, facials and more at Goldenfield Complex, Bacolod City.', img: 'images/hairnailsskin.jpg', tag: 'The lounge' },
-  { k: 'Hair', h: 'Color that <em>suits you</em>', p: 'Organic and Loreal color, balayage, highlights and rebond, priced by your hair length.', img: 'images/haircolor.webp', tag: 'Hair' },
+  { k: 'Hair', h: 'Color that <em>suits you</em>', p: 'Organic and Loreal color, balayage, highlights and rebond, priced by your hair length.', img: 'images/haircolor.jpg', tag: 'Hair' },
   { k: 'Bridal', h: 'Look your best on <em>your big day</em>', p: 'Ask about our bridal spa package.', img: 'images/bridal.jpeg', tag: 'Bridal' }
 ];
 const TESTI = [['[Review Text]: Best haircut I have had in Bacolod.', '[Client Name]'], ['[Review Text]: Friendly team and a relaxing place.', '[Client Name]'], ['[Review Text]: My color came out exactly how I wanted.', '[Client Name]']];
